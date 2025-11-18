@@ -46,10 +46,12 @@ Developed by:Manoshree N RegisterNumber: 25017532
 **Output:**
 
 **RTL**
-<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/af2691ba-1c9b-4069-ba25-bfcc6ded7ecf" />
+<img width="1409" height="371" alt="Screenshot 2025-11-18 200445" src="https://github.com/user-attachments/assets/d777cbac-6353-42a4-8f17-c23f30f7e6f6" />
+
 
 **Timing Diagram**
-<img width="1920" height="1080" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/fe40efce-b473-40c1-a6bb-ce531d749d4f" />
+<img width="1920" height="1080" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/47487257-3f72-46b4-a2d8-fbf582a279e7" />
+
 
 **Result:**
 
